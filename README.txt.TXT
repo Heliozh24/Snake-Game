@@ -6,7 +6,7 @@ GRAY FOOD ( INVISIBILITY AND GRANTS 30 POINTS), PINK FOOD ( CHANGES THE OBSTACLE
 HIGH SCORE  SYSTEM ( IF YOU BEAT THE CURRENT HIGH SCORE 1350 ) IT IS SAVED LOCALLY ON THE HighScores.csv FILE.
 
 HOW TO RUN: Download the SnakeGame File and just run the jar file, all files (gifs and pngs,csv file and jar) must be together on the same file directory. ( You must have the Java SDK installed in your pc)
-If for any reason the jar file does not work, go to cmd and do
+If for any reason the jar file does not work, open cmd at the same file directory where you downloaded all the files  and do
 javac DataLoader.java etc.... for all files and then
 do java SnakeGame. The game should work correctly.
 
