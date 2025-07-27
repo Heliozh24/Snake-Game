@@ -60,7 +60,7 @@ class GameOverScreen extends JLayeredPane
         totalSpeedFoodEaten.setText("TOTAL AMOUNT OF SPEED FOOD EATEN: "+ gamePanel.getSpeedFoodEaten());
         frame.initLabel(totalGhostFoodEaten,100,20,400,100, new Font("Arial", Font.BOLD, 30),new Color(150,150,150,120));
         totalGhostFoodEaten.setHorizontalAlignment(SwingConstants.CENTER);
-        totalGhostFoodEaten.setText("TOTAL AMOUNT OF SPEED FOOD EATEN: "+ gamePanel.getGhostFoodEaten());
+        totalGhostFoodEaten.setText("TOTAL AMOUNT OF GHOST FOOD EATEN: "+ gamePanel.getGhostFoodEaten());
         frame.initLabel(highScore,100,20,400,100, new Font("Arial", Font.BOLD, 30),Color.green);
         highScore.setHorizontalAlignment(SwingConstants.CENTER);
         frame.initLabel(newHighScore,100,20,400,100, new Font("Arial", Font.BOLD, 30),Color.green);
